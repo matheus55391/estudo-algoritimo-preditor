@@ -16,10 +16,3 @@ O estudo busca compreender se existe um padrão discernível entre a idade de um
 - Exemplo de aplicação da IA em dados reais simulados.
 
 Este projeto é uma demonstração de como as IA podem ser utilizadas para análises preditivas com base em dados específicos. Contribuições e discussões são bem-vindas!
-
-#### **Instruções de Uso:**
-1. Clone o repositório e navegue até a pasta.
-2. Execute o arquivo 'index.js' para iniciar a simulação.
-3. Observe as iterações e resultados no console.
-
-🚀 Dê uma olhada no poder da IA em ação e explore o mundo da análise preditiva! 🚀
